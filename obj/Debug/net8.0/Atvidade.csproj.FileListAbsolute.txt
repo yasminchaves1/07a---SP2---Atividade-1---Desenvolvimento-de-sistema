@@ -1,0 +1,14 @@
+C:\Users\SENAI\Documents\_SENAI\Atvidade\bin\Debug\net8.0\Atvidade.exe
+C:\Users\SENAI\Documents\_SENAI\Atvidade\bin\Debug\net8.0\Atvidade.deps.json
+C:\Users\SENAI\Documents\_SENAI\Atvidade\bin\Debug\net8.0\Atvidade.runtimeconfig.json
+C:\Users\SENAI\Documents\_SENAI\Atvidade\bin\Debug\net8.0\Atvidade.dll
+C:\Users\SENAI\Documents\_SENAI\Atvidade\bin\Debug\net8.0\Atvidade.pdb
+C:\Users\SENAI\Documents\_SENAI\Atvidade\obj\Debug\net8.0\Atvidade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENAI\Documents\_SENAI\Atvidade\obj\Debug\net8.0\Atvidade.AssemblyInfoInputs.cache
+C:\Users\SENAI\Documents\_SENAI\Atvidade\obj\Debug\net8.0\Atvidade.AssemblyInfo.cs
+C:\Users\SENAI\Documents\_SENAI\Atvidade\obj\Debug\net8.0\Atvidade.csproj.CoreCompileInputs.cache
+C:\Users\SENAI\Documents\_SENAI\Atvidade\obj\Debug\net8.0\Atvidade.dll
+C:\Users\SENAI\Documents\_SENAI\Atvidade\obj\Debug\net8.0\refint\Atvidade.dll
+C:\Users\SENAI\Documents\_SENAI\Atvidade\obj\Debug\net8.0\Atvidade.pdb
+C:\Users\SENAI\Documents\_SENAI\Atvidade\obj\Debug\net8.0\Atvidade.genruntimeconfig.cache
+C:\Users\SENAI\Documents\_SENAI\Atvidade\obj\Debug\net8.0\ref\Atvidade.dll
